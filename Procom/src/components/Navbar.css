@@ -1,0 +1,33 @@
+.nav_container {
+  display: flex;
+  justify-content: space-between;
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+.nav__logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.nav__searchContainer {
+  width: 40%;
+}
+
+.nav__searchContainer input {
+  border: none;
+  padding: 5px;
+  width: 650px;
+}
+
+.nav__profileContainer {
+}
+
+.nav__profileContainer button {
+  margin-left: 10px;
+  background-color: brown;
+  padding: 3px;
+  border: none;
+  color: white;
+}
